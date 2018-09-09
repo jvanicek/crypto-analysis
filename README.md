@@ -8,20 +8,20 @@ This project takes Crypto market data from 2014 to 2017 to create a price compar
 * Green bodies indicate days where the closing price was greater than the opening price. 
 * Red bodies indicate days where the closing price was less than the opening price. 
 * ![candlestick example](https://github.com/jvanicek/crypto-analysis/blob/development/images/candlestick_components.jpg)<br> 
-</a>For more on Candlestick Graphs: https://www.investopedia.com/trading/candlestick-charting-what-is-it/
+* For more on Candlestick Graphs: https://www.investopedia.com/trading/candlestick-charting-what-is-it/
 
 **Relative Strength Index (RSI):**<br>
 * Used to analyze overbought and oversold conditions by the magnitude of recent price changes. <br>
-</a>For more on RSI: https://www.investopedia.com/terms/r/rsi.asp
+* For more on RSI: https://www.investopedia.com/terms/r/rsi.asp
 
 **Moving Averages:**<br>
 * Smoothes the price flucuations to help identify trends and can be used as a support or resistance indicator.<br>
-</a>For more on Moving Averages: https://www.investopedia.com/terms/m/movingaverage.asp
+For more on Moving Averages: https://www.investopedia.com/terms/m/movingaverage.asp
 
 **Pearson Corelation Coefficients:**<br>
 * In this project, this is measuring the correlations between each coin.
 * Measured as a number between -1 and 1. A value of -1 represents a perfectly negative correlation. Meaning as one value increases, the other will decrease. A value of 1 represents a perfectly positive correlation. Meaning as one value increases, the other value also increases. <br>
-</a>For more on correlation: https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
+* For more on correlation: https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
 
 ##Figures
 **90 day price comparison candlestick graph. Corresponding file: candle_prices.py**<br>
