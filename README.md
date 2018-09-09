@@ -7,7 +7,7 @@ This project takes Crypto market data from 2014 to 2017 to create a price compar
 * Plots the daily open, high, low and close market values.
 * Green bodies indicate days where the closing price was greater than the opening price. 
 * Red bodies indicate days where the closing price was less than the opening price. 
-* ![candlestick example](https://github.com/jvanicek/crypto-analysis/blob/development/images/candlestick_components.jpg)<br> 
+![candlestick example](https://github.com/jvanicek/crypto-analysis/blob/development/images/candlestick_components.jpg)<br> 
 * For more on Candlestick Graphs: https://www.investopedia.com/trading/candlestick-charting-what-is-it/
 
 **Relative Strength Index (RSI):**<br>
