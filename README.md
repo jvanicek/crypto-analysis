@@ -16,7 +16,7 @@ This project takes Crypto market data from 2014 to 2017 to create a price compar
 
 **Moving Averages:**<br>
 * Smoothes the price flucuations to help identify trends and can be used as a support or resistance indicator.<br>
-For more on Moving Averages: https://www.investopedia.com/terms/m/movingaverage.asp
+* For more on Moving Averages: https://www.investopedia.com/terms/m/movingaverage.asp
 
 **Pearson Corelation Coefficients:**<br>
 * In this project, this is measuring the correlations between each coin.
