@@ -73,9 +73,9 @@ def main():
     # bitcoin = get_data()[0]
     # ether = get_data()[1]
     # lite = get_data()[2]
-    bitcoin = pd.read_pickle('bc.pkl')
-    ether = pd.read_pickle('e.pkl')
-    lite = pd.read_pickle('l.pkl')
+    bitcoin = pd.read_pickle('bc.pkl')[::-1]
+    ether = pd.read_pickle('e.pkl')[::-1]
+    lite = pd.read_pickle('l.pkl')[::-1]
     
     date = bitcoin['date']
     
@@ -99,7 +99,7 @@ def main():
     rsi = relative_strength(bitcoin['close'])
     bitrsi = pd.Series(rsi,xtl)
     bitrsi.plot()
-    ax0.axes.get_xaxis().set_visible(False)
+    ax0.axes.get_xaxis().set_visible(True)
     ax0.set_ylim(0,100)
     plt.ylabel('RSI')
     plt.title('Bitcoin Prices', fontsize = 14)
