@@ -23,7 +23,7 @@ This project takes Crypto market data from 2014 to 2017 to create a price compar
 * Measured as a number between -1 and 1. A value of -1 represents a perfectly negative correlation. Meaning as one value increases, the other will decrease. A value of 1 represents a perfectly positive correlation. Meaning as one value increases, the other value also increases. <br>
 * For more on correlation: https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
 
-##Figures
+## Figures
 **90 day price comparison candlestick graph. Corresponding file: candle_prices.py**<br>
 ![90day candlestick](https://github.com/jvanicek/crypto-analysis/blob/development/images/price_compare_90day.png)<br>
 **Bitcoin Relative strength index with the 12-day and 26 day moving averages on top of a candlestick graph for comparison. Corresponding file: rsi.py**<br>
