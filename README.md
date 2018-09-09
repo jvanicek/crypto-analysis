@@ -24,9 +24,9 @@ This project takes Crypto market data from 2014 to 2017 to create a price compar
 * For more on correlation: https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
 
 ## Figures
-**90 day price comparison candlestick graph. Corresponding file: candle_prices.py**<br>
+**1.    90 day price comparison candlestick graph. Corresponding file: candle_prices.py**<br>
 ![90day candlestick](https://github.com/jvanicek/crypto-analysis/blob/development/images/price_compare_90day.png)<br>
-**Bitcoin Relative strength index with the 12-day and 26 day moving averages on top of a candlestick graph for comparison. Corresponding file: rsi.py**<br>
+**2.    Bitcoin Relative strength index with the 12-day and 26 day moving averages on top of a candlestick graph for comparison. Corresponding file: rsi.py**<br>
 ![rsi/simple moving averages](https://github.com/jvanicek/crypto-analysis/blob/development/images/rsi_sma.png)<br>
-**Correlation Matrix comparing the correlation coefficients of close prices for Bitcoin, Ethereum, Litecoin, Ripple and Dash. Corresponding File: corr_matrix.py**
+**3.    Correlation Matrix comparing the correlation coefficients of close prices for Bitcoin, Ethereum, Litecoin, Ripple and Dash. Corresponding File: corr_matrix.py**
 ![Correlation Matrix](https://github.com/jvanicek/crypto-analysis/blob/development/images/corr_matrix.png)
