@@ -1,6 +1,6 @@
 # Crypto Analysis and Visualization 
 
-This project takes Crypto market data from 2014 to 2017 to create a price comparison candlestick graph, a Relative Strength Index model, 12-day and 26-day moving averages and Correlation Matric comparing the correlation coeffcients for Bitcoin, Ethereum, Litecoin, Ripple and Dash.
+This project takes Crypto market data from 2014 to 2017 to create a price comparison candlestick graph, a Relative Strength Index model, 12-day and 26-day moving averages and Correlation Matrix comparing the correlation coeffcients for Bitcoin, Ethereum, Litecoin, Ripple and Dash.
 
 ## Notes for Understanding the Models
 **Candlestick Graph:** <br>
